@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 site_theme               : "default"
 title                    : "Yidan Sun (孙一丹)"
 title_separator          : "-"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Yidan Sun"
   pronouns         : # example: "she/her"  
-  bio              : "A Master student in School of Software Engineering at Zhejiang University"
+  bio              : "Master student in School of Software Engineering at Zhejiang University"
   location         : "Ningbo, China"
   employer         : "Zhejiang University"
   uri              : # URL
